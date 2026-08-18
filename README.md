@@ -20,8 +20,24 @@ Diseño del modelo multidimensional para optimizar el análisis OLAP, definiendo
 *   **Modelo_Estrella_BI.xlsx:** Matriz de configuración y diseño lógico del esquema estrella bajo la Metodología Hefesto.
 *   **BD_Encuesta_Limpia.xlsx:** Base de datos consolidada, estructurada y lista para la conexión con Power BI.
 
-## Resultados e Insights
-El modelo de datos sustenta un dashboard interactivo que permite descubrir insights estratégicos, facilitando el análisis de:
-*   Variación de factores decisivos de compra segmentados por perfil demográfico y zona geográfica.
-*   Niveles de satisfacción del cliente frente a la competencia directa.
-*   Identificación de patrones para recomendaciones accionables de negocio.
+## Visualizaciones e Insights Clave
+El modelo de datos sustenta un dashboard interactivo que permite descubrir hallazgos estratégicos de negocio. A continuación, se presentan algunos de los análisis más relevantes:
+
+**Preferencia de Marca (Market Share)**
+
+![Preferencia de Marca](Dashboards/Preferencia_marca.png)
+
+**Factores Decisivos de Compra**
+
+![Factor Decisivo](Dashboards/Factor_Decisivo.png)
+
+**Análisis de Riesgo Competitivo (Caso KFC)**
+
+![Riesgo Competitivo KFC](Dashboards/Riesgo_competitivo_para_KFC.png)
+
+**Comparativa de Satisfacción por Franquicia**
+
+![Comparacion Franquicia](Dashboards/Comparacion_franquicia.png)
+
+---
+*Nota: Puedes explorar el resto de los análisis visuales (segmentación geográfica, demográfica, sensibilidad al precio y frecuencia de consumo) en el directorio [Dashboards](./Dashboards).*
